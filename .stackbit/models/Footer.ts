@@ -17,6 +17,6 @@ export const Footer: Model = {
                 { type: 'Link', label: 'About', url: '/' }
             ]
         },
-        { type: 'markdown', name: 'copyrightText', label: 'Copyright text', default: '2024 Glassman Technology' }
+        { type: 'markdown', name: 'copyrightText', label: 'Copyright text', default: 'Copyright text' }
     ]
 };
