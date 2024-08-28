@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     title: Glassman 
     subtitle: 'Delivering Happiness '
-    text: > 'Reliable web hosting for a strong online presence. Innovative solutions, exceptional support, and seamless performance. Empowering digital success, one website at a time.' [Learn
+    text: > Reliable web hosting for a strong online presence. Innovative solutions, exceptional support, and seamless performance. Empowering digital success, one website at a time. [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
