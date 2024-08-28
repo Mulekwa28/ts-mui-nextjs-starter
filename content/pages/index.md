@@ -6,8 +6,9 @@ sections:
     title: Glassman 
     subtitle: 'Delivering Happiness '
     text: >
-      This is the Glassman Technology component. You can visually edit this component &
-      add more sections while developing locally. [Learn
+      
+
+Glassman Technology: Reliable web hosting for a strong online presence. Innovative solutions, exceptional support, and seamless performance. Empowering digital success, one website at a time. [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
