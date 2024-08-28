@@ -3,20 +3,21 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Glassman 
-    subtitle: 'Delivering Happiness '
-    text: | Reliable web hosting for a strong online presence. Innovative solutions, exceptional support, and seamless performance. Empowering digital success, one website at a time.
-[Learn
+    title: Hero Title
+    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    text: >
+      This is the Glassman Technology component. You can visually edit this component &
+      add more sections while developing locally. [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
-        label: Hair Us 
+        label: Start Building
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
         color: primary
       - type: Button
-        label: Read More 
+        label: Read the Docs
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
         variant: outlined
