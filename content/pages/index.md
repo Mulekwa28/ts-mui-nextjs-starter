@@ -5,6 +5,7 @@ sections:
   - type: HeroSection
     title: Glassman
     subtitle: 'Delivering Happiness '
+    url:/images/Glassman Technology.png
     text: >
       Reliable web hosting for a strong online presence. Inovative solutions, Exceptional support, and seamless performance. [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
