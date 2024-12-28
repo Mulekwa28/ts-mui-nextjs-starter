@@ -3,7 +3,7 @@ title: Home
 type: Page
 
 sections:
-- type: HeroSection
+- type:HeroSection
 title:Glassman
 subtitle:'Delivering Happiness '
 text:> Reliable web hosting for a strong online presence. Innovative solutions, exceptional support, and seamless performance.
