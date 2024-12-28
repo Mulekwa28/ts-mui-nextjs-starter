@@ -4,7 +4,7 @@ type: Page
 
 sections:
 - type: HeroSection
-title: Glassman
+title:Glassman
 subtitle:'Delivering Happiness '
 text:> Reliable web hosting for a strong online presence. Innovative solutions, exceptional support, and seamless performance.
 actions:
