@@ -5,6 +5,11 @@ sections:
   - type: HeroSection
     title: Glassman
     subtitle: 'Delivering Happiness '
+    size: large
+        variant: outlined
+        color: primary
+    image:
+      type: Image
     url:/images/Glassman Technology.png
     text: >
       Reliable web hosting for a strong online presence. Inovative solutions, Exceptional support, and seamless performance. [Learn
