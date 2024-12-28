@@ -6,8 +6,7 @@ sections:
     title: 
     subtitle:
     text: >
-      Reliable web hosting for a strong online presence. Inovative solutions, Exceptional support, and seamless performance. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      
     actions:
       - type: Button
         label: Hair Us
