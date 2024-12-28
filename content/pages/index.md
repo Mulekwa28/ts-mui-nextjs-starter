@@ -23,7 +23,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/Delivering (1).png
       altText: Hero section image
   - type: CardsSection
     title: Web Development 
