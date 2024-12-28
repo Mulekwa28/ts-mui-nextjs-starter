@@ -1,13 +1,10 @@
 ---
 title: Home
 type: Page
-
-        size: large
-        variant: outlined
-        color: primary
-    image:
-      type: Image
-    url:/images/Glassman Technology.png
+sections:
+  - type: HeroSection
+    title: Glassman
+    subtitle: 'Delivering Happiness '
     text: >
       Reliable web hosting for a strong online presence. Inovative solutions, Exceptional support, and seamless performance. [Learn
       more.](https://docs.netlify.com/visual-editor/local-development/)
