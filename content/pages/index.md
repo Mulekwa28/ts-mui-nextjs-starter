@@ -1,10 +1,7 @@
 ---
 title: Home
 type: Page
-sections:
-  - type: HeroSection
-    title: Glassman
-    subtitle: 'Delivering Happiness '
+
         size: large
         variant: outlined
         color: primary
