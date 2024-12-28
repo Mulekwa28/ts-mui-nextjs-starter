@@ -33,7 +33,7 @@ sections:
         title: First Card Title
         image:
           type: Image
-          url: /images/mohammad-rahmani-gA396xahf-Q-unsplash.jpg
+          url: /images/public/images/Mulekwa Nalube Director.png
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
