@@ -23,17 +23,17 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Delivering (1).png
+      url: /images/glassmanwall.png
       altText: Hero section image
   - type: CardsSection
-    title: Web Development 
+    title: Development 
     subtitle: Section subtitle here
     items:
       - type: Card
         title: First Card Title
         image:
           type: Image
-          url: /images/public/images/Mulekwa Nalube Director.png
+          url: /images/public/images/Delivering (1).png
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
