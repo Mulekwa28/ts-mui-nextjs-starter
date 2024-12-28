@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Glassman Technology
+    title: Glassman
     subtitle: 'Delivering Happiness '
     text: >
       Reliable web hosting for a strong online presence. Inovative solutions, Exceptional support, and seamless performance. Empowering digital success. One website at a time. [Learn
@@ -75,3 +75,42 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
 ---
+
+- type: PricingSection
+title: Affordable Plans for Every Need
+plans:
+    - type: Plan
+title: Basic
+price: $9.99/month
+features:
+        - 1 website
+        - 10 GB storage
+        - 100 GB bandwidth
+    - type: Plan
+title: Premium
+price: $19.99/month
+features:
+        - 5 websites
+        - 50 GB storage
+        - 500 GB bandwidth
+    - type: Plan
+title: Enterprise
+price: $49.99/month
+features:
+        - 10 websites
+        - 100 GB storage
+        - 1 TB bandwidth
+- type: TestimonialsSection
+title: What Our Customers Say
+testimonials:
+    - type: Testimonial
+text: Glassman Technology has been a game-changer for our business. Their fast and reliable web hosting has improved our online presence and customer satisfaction.
+author:
+name: John Doe
+title: CEO, Example Inc.
+    - type: Testimonial
+text: We've been with Glassman Technology for years and have always been impressed with their exceptional support and service.
+author:
+name: Jane Smith
+title: Marketing Manager, Example Corp.
+
