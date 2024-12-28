@@ -6,8 +6,7 @@ sections:
 - type: HeroSection
 title: Glassman
 subtitle: 'Delivering Happiness '
-text:
-Reliable web hosting for a strong online presence. Innovative solutions, exceptional support, and seamless performance.
+text:> Reliable web hosting for a strong online presence. Innovative solutions, exceptional support, and seamless performance.
 actions:
     - type: Button
 label: Hair Us
