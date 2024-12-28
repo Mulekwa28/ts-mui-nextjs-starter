@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     title: Glassman
     subtitle: 'Delivering Happiness '
-    size: large
+        size: large
         variant: outlined
         color: primary
     image:
