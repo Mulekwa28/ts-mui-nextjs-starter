@@ -79,7 +79,7 @@ sections:
             url: 'https://docs.netlify.com/visual-editor/overview/'
 
         - type: Card
-          title: Third Card Title
+          title: Fourth Card Title
           image:
             type: Image
             url: /images/Cream.jpg
