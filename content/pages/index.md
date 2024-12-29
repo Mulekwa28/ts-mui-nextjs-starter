@@ -1,4 +1,3 @@
----
 title: Home
 type: Page
 sections:
@@ -77,6 +76,48 @@ sections:
           - type: Button
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
-
-       
----
+      - type: Card
+        title: Fourth Card Title
+        image:
+          type: Image
+          url: /images/Fourth.png
+          altText: Fourth item image
+        text: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat.
+        actions:
+          - type: Button
+            label: Read the Docs
+            url: 'https://docs.netlify.com/visual-editor/overview/'
+      - type: Card
+        title: Fifth Card Title
+        image:
+          type: Image
+          url: /images/Fifth.png
+          altText: Fifth item image
+        text: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat.
+        actions:
+          - type: Button
+            label: Read the Docs
+            url: 'https://docs.netlify.com/visual-editor/overview/'
+      - type: Card
+        title: Sixth Card Title
+        image:
+          type: Image
+          url: /images/Sixth.png
+          altText: Sixth item image
+        text: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat.
+        actions:
+          - type: Button
+            label: Read the Docs
+            url: 'https://docs.netlify.com/visual-editor/overview/'
