@@ -10,7 +10,7 @@ sections:
     actions:
       - type: Button
         label: Hair Us
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url:     'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
         color: primary
@@ -42,7 +42,7 @@ sections:
         actions:
           - type: Button
             label: Get Services
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://wa.me/+260979103333'
       - type: Card
         title: Second Card Title
         image:
@@ -57,7 +57,7 @@ sections:
         actions:
           - type: Button
             label: Get services
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://wa.me/+260979103333'
       - type: Card
         title: Third Card Title
         image:
@@ -72,7 +72,7 @@ sections:
         actions:
           - type: Button
             label: Get Services
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://wa.me/+260979103333'
 
  
 ---
