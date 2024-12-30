@@ -45,7 +45,7 @@ sections:
           aliquip ex ea commodo consequat.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Get Services
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Second Card Title
@@ -60,7 +60,7 @@ sections:
           aliquip ex ea commodo consequat.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Get services
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Third Card Title
@@ -75,7 +75,7 @@ sections:
           aliquip ex ea commodo consequat.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Get Services
             url: 'https://docs.netlify.com/visual-editor/overview/'
 
  
