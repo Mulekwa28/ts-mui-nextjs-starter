@@ -22,7 +22,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/glassmanwall.png
+      url: /images/Delivering (1).png
       altText: Hero section image
   - type: CardsSection
     title: Services
