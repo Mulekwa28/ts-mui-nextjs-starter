@@ -66,7 +66,7 @@ sections:
         title: Third Card Title
         image:
           type: Image
-          url: /images/Cream.jpg
+          url: /images/Change To go digital.png
           altText: Third item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
