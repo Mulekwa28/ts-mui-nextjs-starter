@@ -29,7 +29,7 @@ sections:
       url: /images/glassmanwall.png
       altText: Hero section image
   - type: CardsSection
-    title: Servicers
+    title: Services
     subtitle: About Our Services
     items:
       - type: Card
