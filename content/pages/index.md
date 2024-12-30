@@ -36,7 +36,7 @@ sections:
         title: First Card Title
         image:
           type: Image
-          url: /images/Delivering (1).png
+          url: /images/Digital.png
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -51,7 +51,7 @@ sections:
         title: Second Card Title
         image:
           type: Image
-          url: /images/Glassman Technology.png
+          url: /images/hosting.png
           altText: Second item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
