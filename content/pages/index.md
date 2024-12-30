@@ -29,7 +29,7 @@ sections:
     subtitle: About Our Services
     items:
       - type: Card
-        title: First Card Title
+        title: Digital Marketing
         image:
           type: Image
           url: /images/Digital.png
@@ -44,7 +44,7 @@ sections:
             label: Get Services
             url: 'https://wa.me/+260979103333'
       - type: Card
-        title: Second Card Title
+        title: Web Hosting
         image:
           type: Image
           url: /images/hosting.png
@@ -59,7 +59,7 @@ sections:
             label: Get services
             url: 'https://wa.me/+260979103333'
       - type: Card
-        title: Third Card Title
+        title: Go Digital
         image:
           type: Image
           url: /images/Change To go digital.png
