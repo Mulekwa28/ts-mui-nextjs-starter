@@ -54,9 +54,9 @@ sections:
           of all sizes. Whether you’re launching your first website or managing a high-traffic platform, our hosting services provide the 
           foundation for your online success.
 
-          Our hosting packages include fast-loading speeds, 99.9% uptime, and robust security measures to keep your website running 
+          <p>Our hosting packages include fast-loading speeds, 99.9% uptime, and robust security measures to keep your website running 
           smoothly and protected against threats. With features like one-click app installations, seamless scalability, and 24/7 
-          technical support, we ensure your online presence remains strong and uninterrupted.
+          technical support, we ensure your online presence remains strong and uninterrupted.</p>
         actions:
           - type: Button
             label: Get services
