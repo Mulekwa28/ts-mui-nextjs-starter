@@ -1,6 +1,3 @@
-<img src="public/images/glassmanwall.png" alt="Avatar" style="border-radius: 50%; width: 100px; height: 100px;">
-
-
 ---
 title: Home
 type: Page
