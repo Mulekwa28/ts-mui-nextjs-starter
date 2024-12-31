@@ -25,7 +25,7 @@
         ]
     },
     "footer": {
-        "copyrightText": "Powered by [Glassman Technology](https://www.netlify.com/platform/).",
+        "copyrightText": "Powered by [Glassman Technology].",
         "navLinks": [
             {
                 "type": "Link",
@@ -41,7 +41,7 @@
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "",
                 "underline": "hover",
                 "url": "https://docs.netlify.com/visual-editor/overview/"
             }
