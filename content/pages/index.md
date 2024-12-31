@@ -87,6 +87,9 @@ sections:
             label: Get Services
             url: 'https://wa.me/+260979103333'
 
+
+---
+
 <script>
   function myFunction() {
       var dots = document.getElementById("dots");
@@ -105,4 +108,3 @@ sections:
    }
 </script>
  
----
