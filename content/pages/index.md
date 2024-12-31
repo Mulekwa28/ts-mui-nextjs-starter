@@ -40,8 +40,8 @@ sections:
           to meet your unique goals, ensuring measurable results and a strong online presence.
 
           <p>With a team of experts passionate about delivering success, we pride ourselves on providing customized campaigns that 
-          resonate with your audience and drive growth. Whether you're looking to improve visibility, boost engagement, or maximize ROI, 
-          Glassman Technology has the tools and expertise to elevate your digital marketing efforts.</p>
+          resonate with your audience and drive growth. Whether you're looking to improve visibility, Glassman Technology has the tools 
+          and expertise to elevate your digital marketing efforts.</p>
     
         actions:
           - type: Button
