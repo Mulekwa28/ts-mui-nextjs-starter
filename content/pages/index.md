@@ -39,9 +39,9 @@ sections:
           competitive online landscape. Our services include search engine optimization (SEO). We focus on crafting tailored strategies 
           to meet your unique goals, ensuring measurable results and a strong online presence.<span id="dots">...</span><span id="more">
 
-          <p>With a team of experts passionate about delivering success, we pride ourselves on providing customized campaigns that 
+          With a team of experts passionate about delivering success, we pride ourselves on providing customized campaigns that 
           resonate with your audience and drive growth. Whether you're looking to improve visibility, Glassman Technology has the tools 
-          and expertise to elevate your digital marketing efforts.</p>
+          and expertise to elevate your digital marketing efforts.
           </span></p>
 
           <button onclick="myFunction()" id="myBtn">Read more</button>
