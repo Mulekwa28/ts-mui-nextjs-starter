@@ -38,7 +38,12 @@ sections:
           At Glassman Technology, we provide innovative digital marketing solutions designed to help your business thrive in today’s 
           competitive online landscape. Our services include search engine optimization (SEO), social media management, pay-per-click 
           advertising (PPC), content creation, email marketing, and web analytics. We focus on crafting tailored strategies to meet your 
-          unique goals, ensuring measurable results and a strong online presenc
+          unique goals, ensuring measurable results and a strong online presence.
+
+          <p>With a team of experts passionate about delivering success, we pride ourselves on providing customized campaigns that 
+          resonate with your audience and drive growth. Whether you're looking to improve visibility, boost engagement, or maximize ROI, 
+          Glassman Technology has the tools and expertise to elevate your digital marketing efforts.</p>
+    
         actions:
           - type: Button
             label: Get Services
@@ -72,9 +77,9 @@ sections:
           digital transformation to unlock new opportunities, reach wider audiences, and achieve greater efficiency. Going digital isn’t 
           just about keeping up with trends—it’s about staying ahead in a rapidly evolving world.
 
-          By leveraging digital tools and strategies, you can streamline operations, improve customer engagement, and grow your brand 
+          <p>By leveraging digital tools and strategies, you can streamline operations, improve customer engagement, and grow your brand 
           like never before. From building a strong online presence to implementing advanced technologies that enhance productivity, the 
-          possibilities are endless.
+          possibilities are endless.</p>
         actions:
           - type: Button
             label: Get Services
