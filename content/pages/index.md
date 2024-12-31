@@ -37,14 +37,7 @@ sections:
         text: >
           <p>Glassman Technology, we provide innovative digital marketing solutions designed to help your business thrive in today’s 
           competitive online landscape. Our services include search engine optimization (SEO). We focus on crafting tailored strategies 
-          to meet your unique goals, ensuring measurable results and a strong online presence.<span id="dots">...</span><span id="more">
-
-          With a team of experts passionate about delivering success, we pride ourselves on providing customized campaigns that 
-          resonate with your audience and drive growth. Whether you're looking to improve visibility, Glassman Technology has the tools 
-          and expertise to elevate your digital marketing efforts.
-          </span></p>
-
-          <button onclick="myFunction()" id="myBtn">Read more</button>
+          to meet your unique goals, ensuring measurable results and a strong online presence.
     
         actions:
           - type: Button
@@ -58,12 +51,9 @@ sections:
           altText: Second item image
         text: >
           At Glassman Technology, we offer reliable, secure, and scalable web hosting solutions tailored to meet the needs of businesses 
-          of all sizes. Whether you’re launching your first website or managing a high-traffic platform, our hosting services provide the 
+          of all sizes. Whether you’re launching your first website or managing a high-traffic platform, our hosting services providethe 
           foundation for your online success.
 
-          <p>Our hosting packages include fast-loading speeds, 99.9% uptime, and robust security measures to keep your website running 
-          smoothly and protected against threats. With features like one-click app installations, seamless scalability, and 24/7 
-          technical support, we ensure your online presence remains strong and uninterrupted.</p>
         actions:
           - type: Button
             label: Get services
@@ -79,9 +69,6 @@ sections:
           digital transformation to unlock new opportunities, reach wider audiences, and achieve greater efficiency. Going digital isn’t 
           just about keeping up with trends—it’s about staying ahead in a rapidly evolving world.
 
-          <p>By leveraging digital tools and strategies, you can streamline operations, improve customer engagement, and grow your brand 
-          like never before. From building a strong online presence to implementing advanced technologies that enhance productivity, the 
-          possibilities are endless.</p>
         actions:
           - type: Button
             label: Get Services
@@ -89,22 +76,4 @@ sections:
 
 
 ---
-
-<script>
-  function myFunction() {
-      var dots = document.getElementById("dots");
-      var moreText = document.getElementById("more");
-      var btnText = document.getElementById("myBtn");
-
-      if (dots.style.display === "none") {
-      dots.style.display = "inline";
-      btnText.innerHTML = "Read more";
-      moreText.style.display = "none";
-     } else {
-      dots.style.display = "none";
-      btnText.innerHTML = "Read less";
-      moreText.style.display = "inline";
-     }
-   }
-</script>
  
