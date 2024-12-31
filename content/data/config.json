@@ -6,19 +6,19 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "",
                 "url": "/",
                 "underline": "hover"
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "",
                 "url": "/about",
                 "underline": "hover"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "",
                 "url": "https://docs.netlify.com/visual-editor/overview/",
                 "underline": "hover"
             }
