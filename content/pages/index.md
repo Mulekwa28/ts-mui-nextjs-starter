@@ -35,7 +35,10 @@ sections:
           url: /images/Digital.png
           altText: First item image
         text: >
-At Glassman Technology, we provide innovative digital marketing solutions designed to help your business thrive in today’s competitive online landscape. Our services include search engine optimization (SEO), social media management, pay-per-click advertising (PPC), content creation, email marketing, and web analytics. We focus on crafting tailored strategies to meet your unique goals, ensuring measurable results and a strong online presenc
+          At Glassman Technology, we provide innovative digital marketing solutions designed to help your business thrive in today’s 
+          competitive online landscape. Our services include search engine optimization (SEO), social media management, pay-per-click 
+          advertising (PPC), content creation, email marketing, and web analytics. We focus on crafting tailored strategies to meet your 
+          unique goals, ensuring measurable results and a strong online presenc
         actions:
           - type: Button
             label: Get Services
@@ -47,9 +50,13 @@ At Glassman Technology, we provide innovative digital marketing solutions design
           url: /images/hosting.png
           altText: Second item image
         text: >
-          At Glassman Technology, we offer reliable, secure, and scalable web hosting solutions tailored to meet the needs of businesses of all sizes. Whether you’re launching your first website or managing a high-traffic platform, our hosting services provide the foundation for your online success.
+          At Glassman Technology, we offer reliable, secure, and scalable web hosting solutions tailored to meet the needs of businesses 
+          of all sizes. Whether you’re launching your first website or managing a high-traffic platform, our hosting services provide the 
+          foundation for your online success.
 
-Our hosting packages include fast-loading speeds, 99.9% uptime, and robust security measures to keep your website running smoothly and protected against threats. With features like one-click app installations, seamless scalability, and 24/7 technical support, we ensure your online presence remains strong and uninterrupted.
+          Our hosting packages include fast-loading speeds, 99.9% uptime, and robust security measures to keep your website running 
+          smoothly and protected against threats. With features like one-click app installations, seamless scalability, and 24/7 
+          technical support, we ensure your online presence remains strong and uninterrupted.
         actions:
           - type: Button
             label: Get services
@@ -62,10 +69,12 @@ Our hosting packages include fast-loading speeds, 99.9% uptime, and robust secur
           altText: Third item image
         text: >
           The future is digital, and your business deserves to be part of it. At Glassman Technology, we help you embrace the power of 
-digital transformation to unlock new opportunities, reach wider audiences, and achieve greater efficiency. Going digital isn’t 
-just about keeping up with trends—it’s about staying ahead in a rapidly evolving world.
+          digital transformation to unlock new opportunities, reach wider audiences, and achieve greater efficiency. Going digital isn’t 
+          just about keeping up with trends—it’s about staying ahead in a rapidly evolving world.
 
-By leveraging digital tools and strategies, you can streamline operations, improve customer engagement, and grow your brand like never before. From building a strong online presence to implementing advanced technologies that enhance productivity, the possibilities are endless.
+          By leveraging digital tools and strategies, you can streamline operations, improve customer engagement, and grow your brand 
+          like never before. From building a strong online presence to implementing advanced technologies that enhance productivity, the 
+          possibilities are endless.
         actions:
           - type: Button
             label: Get Services
