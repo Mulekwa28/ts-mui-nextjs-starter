@@ -62,7 +62,7 @@ sections:
         title: Go Digital
         image:
           type: Image
-          url: /images/Change To go digital.png
+          url: /images/Glassman Technology (3).png
           altText: Third item image
         text: >
           The future is digital, and your business deserves to be part of it. At Glassman Technology, we help you embrace the power of 
