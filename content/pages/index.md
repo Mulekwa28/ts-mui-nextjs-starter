@@ -10,7 +10,7 @@ sections:
     actions:
       - type: Button
         label: Hair Us
-        url: 'https://wa.me/+260979103333''
+        url: 'https://wa.me/+260979103333'
         size: large
         variant: contained
         color: primary
