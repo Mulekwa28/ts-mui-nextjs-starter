@@ -59,7 +59,7 @@ sections:
             label: Get services
             url: 'https://wa.me/+260979103333'
       - type: Card
-        title: Go Digital
+        title: Company Profile
         image:
           type: Image
           url: /images/Glassman Technology (3).png
