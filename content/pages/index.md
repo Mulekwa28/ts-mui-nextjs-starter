@@ -10,13 +10,13 @@ sections:
     actions:
       - type: Button
         label: Hair Us
-        url:     'https://docs.netlify.com/visual-editor/get-started/'
+        url: 'https://wa.me/+260979103333''
         size: large
         variant: contained
         color: primary
       - type: Button
         label: Projects 
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: 'About'
         size: large
         variant: outlined
         color: primary
